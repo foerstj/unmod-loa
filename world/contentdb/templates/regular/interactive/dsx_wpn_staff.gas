@@ -121,6 +121,7 @@
 						}
 				}
 		}
+	common:is_pcontent_allowed = false;  // ADDED
 }
 
 

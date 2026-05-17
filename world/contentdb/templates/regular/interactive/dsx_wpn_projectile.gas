@@ -31,6 +31,7 @@
     {
       velocity = 14.0;
     }
+	common:is_pcontent_allowed = false;  // ADDED
 }
 
 [t:template,n:dsx_minigun_dragon]

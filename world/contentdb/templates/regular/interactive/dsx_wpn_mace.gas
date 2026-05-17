@@ -25,6 +25,7 @@
       active_icon = b_gui_ig_i_ic_mce_001;
       equip_slot = es_weapon_hand;
     }
+	common:is_pcontent_allowed = false;  // ADDED
 }
 
 [t:template,n:mc_dsx_cicatrix_skeleton]

@@ -20,6 +20,7 @@
   [common]
     {
       screen_name = "dsx_base_polearm_staff";
+      is_pcontent_allowed = false;  // ADDED
     }
   [magic]
     {
@@ -52,6 +53,7 @@
   [common]
     {
       screen_name = "dsx_base_polearm_axe";
+      is_pcontent_allowed = false;  // ADDED
     }
 }
 

@@ -20,6 +20,7 @@
     {
       b allow_modifiers = false; //is this desirable?
       screen_name = "Dagger";
+      is_pcontent_allowed = false;  // ADDED
     }
   [gui]
     {
