@@ -1,5 +1,3 @@
-:: name of map
-
 :: path of Bits dir
 set bits=%~dp0.
 :: path of DS installation
