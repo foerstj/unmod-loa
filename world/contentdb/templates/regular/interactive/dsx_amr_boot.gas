@@ -16,6 +16,7 @@
 		{
 			equip_slot = es_feet;
 		}
+	common:is_pcontent_allowed = false;  // ADDED
 }
 
 ////////////////////////////////////////////////////////////

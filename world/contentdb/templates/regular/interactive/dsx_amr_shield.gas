@@ -278,6 +278,7 @@
 						}
 				}
 		}
+	common:is_pcontent_allowed = false;  // ADDED
 }
 
 [t:template,n:dsx_base_shield_fan]

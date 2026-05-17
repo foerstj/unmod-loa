@@ -21,6 +21,7 @@
 		{
 			sim_duration = 0.0;
 		}
+	common:is_pcontent_allowed = false;  // ADDED
 }
 
 [t:template,n:dsx_base_robe]
@@ -46,6 +47,7 @@
 		{
 			sim_duration = 0.0;
 		}
+	common:is_pcontent_allowed = false;  // ADDED
 }
 
 // Specific to the Death Knight

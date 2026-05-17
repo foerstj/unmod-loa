@@ -18,6 +18,7 @@
 			inventory_height = 2;
 			inventory_width = 1;
 		}
+	common:is_pcontent_allowed = false;  // ADDED
 }
 
 ////////////////////////////////////////////////////////////
