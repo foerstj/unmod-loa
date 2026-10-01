@@ -374,6 +374,10 @@
 [t:template,n:sh_w_f_g_c_t_s_avg_deathknight_player]
 {
 	specializes = sh_w_f_g_c_t_s_avg_deathknight;
+	[common]
+	{
+	  b is_pcontent_allowed = false;
+	}
 	[gui]
 	{
 		is_droppable = true;
@@ -412,6 +416,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Super Death Knight Shield";
 	}
 	[defend]
@@ -452,6 +457,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Supreme Death Knight Shield";
 	}
 	[defend]
@@ -493,6 +499,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Hassat Hide Shield";
 		pcontent_special_type = normal;
 	}
@@ -556,6 +563,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Zaurask Leather Shield";
 		pcontent_special_type = normal;
 	}
@@ -619,6 +627,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Kraken shield";
 		pcontent_special_type = normal;
 	}
@@ -682,6 +691,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Bamboo Shield";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -745,6 +755,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Wicker Shield";
 		pcontent_special_type = normal;
 	}
@@ -808,6 +819,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Gearwork Shield";
 		pcontent_special_type = normal;
 	}
@@ -872,6 +884,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Blood Ward";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -935,6 +948,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Shellacked Mushroom Cap Shield";
 		pcontent_special_type = normal;
 	}
@@ -999,6 +1013,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Rainbow Ward";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -1063,6 +1078,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Sky Ward";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -1128,6 +1144,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Mirror Shield";
 		pcontent_special_type = rare, unique;
 	}
@@ -1191,6 +1208,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Tortoise Shell Shield";
 		pcontent_special_type = normal;
 	}
@@ -1254,6 +1272,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Ceramic Shield";
 		pcontent_special_type = normal;
 	}
@@ -1317,6 +1336,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Clockface Shield";
 		pcontent_special_type = normal;
 	}
@@ -1380,6 +1400,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Spidersilk Shield";
 		pcontent_special_type = normal;
 	}
@@ -1444,6 +1465,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Sun Ward";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -1508,6 +1530,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Sanguine Ward";
 		pcontent_special_type = normal;
 	}
@@ -1572,6 +1595,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Chromatic Ward";
 		pcontent_special_type = normal;
 	}
@@ -1636,6 +1660,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Ward of the Stars";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -1700,6 +1725,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Scintillating Ward";
 		pcontent_special_type = normal;
 	}
@@ -1763,6 +1789,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Tangled Root Buckler";
 		pcontent_special_type = normal;
 	}
@@ -1826,6 +1853,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Flywing Barrier";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -1889,6 +1917,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Carapace Shield";
 		pcontent_special_type = normal;
 	}
@@ -1952,6 +1981,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Bark Wall";
 		pcontent_special_type = normal;
 	}
@@ -2015,6 +2045,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Cured Leaf Barrier";
 		pcontent_special_type = normal;
 	}
@@ -2078,6 +2109,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Flywing Wall";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -2141,6 +2173,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Exoskeleton Shield";
 		pcontent_special_type = normal;
 	}
@@ -2204,6 +2237,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Arboreal Barrier";
 		pcontent_special_type = normal;
 	}
@@ -2267,6 +2301,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Woven Fan";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -2320,6 +2355,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Beaded Fan";
 		pcontent_special_type = normal;
 	}
@@ -2373,6 +2409,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Spidersilk Fan";
 		pcontent_special_type = normal;
 	}
@@ -2426,6 +2463,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Feathered Fan";
 		pcontent_special_type = normal;
 	}
@@ -2479,6 +2517,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Jeweled Fan";
 		pcontent_special_type = normal;
 	}

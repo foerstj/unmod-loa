@@ -48,6 +48,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Hassat Moon";
 	}
 	[gui]
@@ -85,6 +86,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Shadow Moon";
 	}
 	[gui]
@@ -122,6 +124,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Hassat Trident";
 	}
 	[gui]
@@ -159,6 +162,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Hassat Scimitar";
 	}
 	[gui]
@@ -196,6 +200,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Hassat Fork";
 	}
 	[gui]
@@ -233,6 +238,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Naginata";
 	}
 	[gui]
@@ -270,6 +276,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Zaurask-Catcher";
 	}
 	[gui]
@@ -307,6 +314,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Bardiche";
 		pcontent_special_type = rare, unique;
 	}
@@ -345,6 +353,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Hassat Cleaver";
 	}
 	[gui]

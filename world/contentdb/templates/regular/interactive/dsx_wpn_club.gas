@@ -121,6 +121,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Crystal Club";
 	}
 	[gui]
@@ -155,6 +156,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Crackled Club";
 	}
 	[gui]
@@ -189,6 +191,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Knobbed Club";
 	}
 	[gui]
@@ -223,6 +226,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Rubber Club";
 	}
 	[gui]
@@ -257,6 +261,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Ceramic Club";
 	}
 	[gui]

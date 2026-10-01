@@ -68,6 +68,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Hassat Fur Hauberk";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -99,6 +100,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Zaurask Leather";
 		pcontent_special_type = normal;
 	}
@@ -130,6 +132,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Padded Hassat Armor";
 		pcontent_special_type = normal;
 	}
@@ -161,6 +164,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Hassat Hide Hauberk";
 		pcontent_special_type = normal;
 	}
@@ -192,6 +196,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Zaurask Padded Leather";
 		pcontent_special_type = normal;
 	}
@@ -223,6 +228,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Articulated Alloy Armor";
 		pcontent_special_type = normal;
 	}
@@ -254,6 +260,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Zaurask Scalemail";
 		pcontent_special_type = normal;
 	}
@@ -285,6 +292,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Utraean Plate";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -316,6 +324,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Dragon Leather";
 		pcontent_special_type = normal;
 	}
@@ -347,6 +356,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Nemean Hide";
 		pcontent_special_type = normal;
 	}
@@ -378,6 +388,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Dragon Scalemail";
 		pcontent_special_type = normal;
 	}
@@ -409,6 +420,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Alloy Heavy Plate";
 		pcontent_special_type = normal;
 	}
@@ -440,6 +452,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Nemean Armor";
 		pcontent_special_type = normal;
 	}
@@ -471,6 +484,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Transfused Plate";
 		pcontent_special_type = normal;
 	}
@@ -502,6 +516,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Dragon Platemail";
 		pcontent_special_type = normal;
 	}
@@ -533,6 +548,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Utraearch Battle Plate";
 		pcontent_special_type = normal;
 	}
@@ -564,6 +580,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Transcendent Plate";
 		pcontent_special_type = normal;
 	}
@@ -595,6 +612,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Woven Suit";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -626,6 +644,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Spidersilk Hauberk";
 		pcontent_special_type = normal;
 	}
@@ -657,6 +676,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Crude Electric Plate";
 		pcontent_special_type = normal;
 	}
@@ -688,6 +708,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Light Mechanized Suit";
 		pcontent_special_type = normal;
 	}
@@ -719,6 +740,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Beaded Hauberk";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -750,6 +772,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Iron Thread Suit";
 		pcontent_special_type = normal;
 	}
@@ -781,6 +804,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Ceramic Suit";
 		pcontent_special_type = normal;
 	}
@@ -812,6 +836,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Mechanized Suit";
 		pcontent_special_type = normal;
 	}
@@ -843,6 +868,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Magesilk Shirt";
 		pcontent_special_type = normal;
 	}
@@ -874,6 +900,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Light Recondite Suit";
 		pcontent_special_type = normal;
 	}
@@ -905,6 +932,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Patterned Hauberk";
 		pcontent_special_type = normal;
 	}
@@ -936,6 +964,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Framed Spidersilk Hauberk";
 		pcontent_special_type = normal;
 	}
@@ -967,6 +996,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Heavy Mechanized Suit";
 		pcontent_special_type = normal;
 	}
@@ -998,6 +1028,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Heavy Electric Plate";
 		pcontent_special_type = normal;
 	}
@@ -1029,6 +1060,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Recondite Suit";
 		pcontent_special_type = normal;
 	}
@@ -1060,6 +1092,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Inscribed Suit";
 		pcontent_special_type = normal;
 	}
@@ -1091,6 +1124,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Heavy Recondite Suit";
 		pcontent_special_type = normal;
 	}
@@ -1122,6 +1156,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Recondite Battle Plate";
 		pcontent_special_type = normal;
 	}
@@ -1153,6 +1188,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Cured Leaf Hauberk";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -1184,6 +1220,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Fiber Suit";
 		pcontent_special_type = normal;
 	}
@@ -1215,6 +1252,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Hassat Skin Robe";
 		pcontent_special_type = normal;
 	}
@@ -1246,6 +1284,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Bark Casing";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -1277,6 +1316,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Flywing Hauberk";
 		pcontent_special_type = normal;
 	}
@@ -1308,6 +1348,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Lacquered Leaf Hauberk";
 		pcontent_special_type = normal;
 	}
@@ -1339,6 +1380,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Zaurask Hide Robe";
 		pcontent_special_type = normal;
 	}
@@ -1370,6 +1412,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Thessic Suit";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -1401,6 +1444,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Carapace Plate";
 		pcontent_special_type = normal;
 	}
@@ -1432,6 +1476,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Knotted Leaf Hauberk";
 		pcontent_special_type = normal;
 	}
@@ -1463,6 +1508,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Reinforced Leaf Armor";
 		pcontent_special_type = normal;
 	}
@@ -1494,6 +1540,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Articulated Carapace Armor";
 		pcontent_special_type = normal;
 	}
@@ -1525,6 +1572,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Heavy Fiber Suit";
 		pcontent_special_type = normal;
 	}
@@ -1556,6 +1604,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Chitterskrag Armor";
 		pcontent_special_type = normal;
 	}
@@ -1587,6 +1636,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Elaborate Flywing Plate";
 		pcontent_special_type = normal;
 	}
@@ -1618,6 +1668,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Arboreal Suit";
 		pcontent_special_type = normal;
 	}
@@ -1649,6 +1700,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Exoskeleton Suit";
 		pcontent_special_type = normal;
 	}
@@ -1680,6 +1732,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Arboreal Armor";
 		pcontent_special_type = normal;
 	}
@@ -1711,6 +1764,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Midnight Suit";
 		pcontent_special_type = normal;
 	}
@@ -1742,6 +1796,7 @@
 	specializes = dsx_base_body_armor_plate;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Arboreal Battle Plate";
 		pcontent_special_type = normal;
 	}
@@ -1773,6 +1828,7 @@
 	specializes = dsx_base_robe;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Woven Robe";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -1804,6 +1860,7 @@
 	specializes = dsx_base_robe;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Spidersilk Robe";
 		pcontent_special_type = normal;
 	}
@@ -1835,6 +1892,7 @@
 	specializes = dsx_base_robe;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Fiber Robe";
 		pcontent_special_type = normal;
 	}
@@ -1866,6 +1924,7 @@
 	specializes = dsx_base_robe;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Leaf Robe";
 		pcontent_special_type = normal;
 	}
@@ -1897,6 +1956,7 @@
 	specializes = dsx_base_robe;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Ceramic Beaded Robe";
 		pcontent_special_type = normal;
 	}
@@ -1928,6 +1988,7 @@
 	specializes = dsx_base_robe;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Elaborate Beaded Robe";
 		pcontent_special_type = normal;
 	}
@@ -1959,6 +2020,7 @@
 	specializes = dsx_base_robe;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Steel Thread Robe";
 		pcontent_special_type = normal;
 	}

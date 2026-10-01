@@ -130,6 +130,10 @@
 {
 	doc = "DSX Flamethrower";
 	specializes = dsx_minigun_flamethrower_base;
+	[common]
+	{
+	  b is_pcontent_allowed = false;
+	}
 }
 [t:template,n:dsx_minigun_flamethrower2]
 {
@@ -142,6 +146,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Flameblaster";
 	}
 }
@@ -483,6 +488,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Gas Gun";
 	}
 }
@@ -497,6 +503,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Goblin's Gas Gun";
 	}
 	[gui]
@@ -574,6 +581,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Bone Crossbow";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -619,6 +627,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Clockwork Crossbow";
 	}
 	[gui]

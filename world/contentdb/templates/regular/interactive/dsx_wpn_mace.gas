@@ -80,6 +80,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Open Mace";
 	}
 	[gui]
@@ -116,6 +117,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Zaurask Mace";
 	}
 	[gui]
@@ -152,6 +154,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Clockwork Mace";
 	}
 	[gui]
@@ -188,6 +191,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Twisted Mace";
 		pcontent_special_type = rare, unique, normal;
 	}

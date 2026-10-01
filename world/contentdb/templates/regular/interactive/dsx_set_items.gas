@@ -10,6 +10,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Arhok's Leather";
 	}
 	[defend]
@@ -57,6 +58,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Arhok's Short Bow";
 	}
 	[gui]
@@ -96,6 +98,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Arhok's Shield";
 	}
 	[defend]
@@ -139,6 +142,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Arhok's Long Sword";
 	}
 	[gui]
@@ -174,6 +178,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Illicor's Ring";
 	}
 	[gui]
@@ -205,6 +210,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Illicor's Amulet";
 	}
 	[set_item]
@@ -236,6 +242,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Illicor's Beaded Hauberk";
 	}
 	[defend]
@@ -282,6 +289,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Illicor's Staff";
 	}
 	[gui]
@@ -321,6 +329,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Illicor's Spellbook";
 	}
 	[gui]
@@ -356,6 +365,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Kajj's Breastplate";
 	}
 	[defend]
@@ -402,6 +412,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Kajj's Gauntlets";
 	}
 	[gui]
@@ -442,6 +453,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Kajj's Helm";
 	}
 	[gui]
@@ -482,6 +494,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Claws of Kajj";
 	  b allow_modifiers = false;
 	}
@@ -513,6 +526,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Solov's Ward";
 	}
 	[aspect]
@@ -569,6 +583,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Solov's Bow";
 	}
 	[gui]
@@ -608,6 +623,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Solov's Spellbook";
 	}
 	[gui]
@@ -643,6 +659,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Demlock's Ring";
 	}
 	[set_item]
@@ -675,6 +692,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Demlock's Amulet";
 	}
 	[gui]
@@ -710,6 +728,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Demlock's Spellbook";
 	}
 	[gui]
@@ -761,6 +780,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Clockwork Crossbow";
 	}
 	[gui]
@@ -796,6 +816,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Clockwork Boots";
 	}
 	[defend]
@@ -845,6 +866,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Clockwork Staff";
 	}
 	[gui]
@@ -880,6 +902,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Clockwork Amulet";
 	}
 	[gui]
@@ -914,6 +937,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Chadek's Spellbook";
 	}
 	[gui]
@@ -944,6 +968,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Chadek's Suit";
 	}
 	[defend]
@@ -979,6 +1004,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Chadek's Boots";
 	}
 	[defend]
@@ -1022,6 +1048,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Chadek's Shield";
 	}
 	[defend]
@@ -1054,6 +1081,7 @@
 	specializes = dsx_base_helm;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Chadek's Headdress";
 	  b allow_modifiers = false;
 	}
@@ -1110,6 +1138,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Guiseppi's Bow";
 	}
 	[gui]
@@ -1144,6 +1173,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Guiseppi's Amulet";
 	}
 	[gui]
@@ -1170,6 +1200,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Guiseppi's Ring";
 	}
 	[gui]
@@ -1196,6 +1227,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Kaltenbach's Full Mech Suit";
 	}
 	[defend]
@@ -1242,6 +1274,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Kaltenbach's Sword";
 	}
 	[gui]
@@ -1281,6 +1314,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Kaltenbach's Shield";
 	}
 	[defend]
@@ -1314,6 +1348,7 @@
 	specializes = dsx_base_glove;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Kaltenbach's Gauntlets";
 	  b allow_modifiers = false;
 	}
@@ -1361,6 +1396,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Rune Sword";
 	}
 	[gui]
@@ -1392,6 +1428,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Rune Dome";
 	}
 	[defend]
@@ -1436,6 +1473,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Rune Shield";
 	}
 	[defend]
@@ -1470,6 +1508,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Rune Armor";
 	}
 	[defend]
@@ -1513,6 +1552,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Adela's Spellbook";
 	}
 	[gui]
@@ -1544,6 +1584,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Adela's Ring";
 	}
 	[gui]
@@ -1571,6 +1612,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Adela's Amulet";
 	}
 	[gui]
@@ -1607,6 +1649,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Adela's Staff";
 	}
 	[gui]
@@ -1638,6 +1681,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Adela's Spidersilk Hauberk";
 	}
 	[defend]
@@ -1674,6 +1718,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Jeffron's Plate";
 	}
 	[defend]
@@ -1710,6 +1755,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Jeffron's Crown";
 	}
 	[defend]
@@ -1754,6 +1800,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Jeffron's Wall";
 	}
 	[defend]
@@ -1788,6 +1835,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Jeffron's Gauntlets";
 	}
 	[defend]
@@ -1824,6 +1872,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Jeffron's Boots";
 	}
 	[defend]
@@ -1869,6 +1918,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Scythe of Cicatrix";
 	}
 	[gui]
@@ -1900,6 +1950,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Ring of Cicatrix";
 	}
 	[gui]
@@ -1934,6 +1985,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Spellbook of Cicatrix";
 	}
 	[gui]
@@ -1975,6 +2027,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Utraean Archer's Club";
 	}
 	[gui]
@@ -2005,6 +2058,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Utraean Archer's Suit";
 	}
 	[defend]
@@ -2041,6 +2095,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Utraean Archer's Cap";
 	}
 	[defend]
@@ -2095,6 +2150,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Utraean Archer's Bow";
 	}
 	[gui]
@@ -2126,6 +2182,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Utraean Archer's Boots";
 	}
 	[defend]
@@ -2173,6 +2230,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Axe of the Zaurask Champion";
 	}
 	[gui]
@@ -2204,6 +2262,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Helm of the Zaurask Champion";
 	}
 	[defend]
@@ -2259,6 +2318,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Crossbow of the Zaurask Champion";
 	}
 	[gui]
@@ -2297,6 +2357,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Xulphae's Spellbook";
 	}
 	[gui]
@@ -2328,6 +2389,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Xulphae's Plate";
 	}
 	[defend]
@@ -2373,6 +2435,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Xulphae's Staff";
 	}
 	[gui]
@@ -2404,6 +2467,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Xulphae's Ring";
 	}
 	[gui]
@@ -2438,6 +2502,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Kmethekt's Spellbook";
 	}
 	[gui]
@@ -2469,6 +2534,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Kmethekt's Armor";
 	}
 	[defend]
@@ -2505,6 +2571,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Kmethekt's Amulet";
 	}
 	[gui]
@@ -2541,6 +2608,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Kmethekt's Staff";
 	}
 	[gui]
@@ -2582,6 +2650,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Utraean Guard's Sword";
 	}
 	[gui]
@@ -2613,6 +2682,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Utraean Guard's Boots";
 	}
 	[defend]
@@ -2657,6 +2727,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Utraean Guard's Shield";
 	}
 	[defend]
@@ -2702,6 +2773,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Utraean Guard's Bow";
 	}
 	[gui]
@@ -2732,6 +2804,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Utraean Guard's Plate";
 	}
 	[defend]
@@ -2780,6 +2853,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Ancient Hassat Dagger";
 	}
 	[gui]
@@ -2821,6 +2895,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Ancient Hassat Bow";
 	}
 	[gui]
@@ -2852,6 +2927,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Ancient Hassat Ring";
 	}
 	[gui]
@@ -2887,6 +2963,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Ancient Hassat Fan";
 	}
 	[defend]
@@ -2921,6 +2998,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Jerkal's Boots";
 	}
 	[defend]
@@ -2957,6 +3035,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Jerkal's Visor";
 	}
 	[defend]
@@ -2993,6 +3072,7 @@
 	[common]
 	{
 	  b allow_modifiers = false;
+	  b is_pcontent_allowed = false;
 		screen_name = "Jerkal's Gloves";
 	}
 	[defend]

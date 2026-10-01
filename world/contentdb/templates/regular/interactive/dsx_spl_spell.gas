@@ -14,6 +14,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		[template_triggers]
 		{
 			[*]
@@ -67,6 +68,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		[template_triggers]
 		{
 			[*]
@@ -120,6 +122,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		[template_triggers]
 		{
 			[*]
@@ -168,6 +171,7 @@
 	[common]
 	{
 		description = "Enemy shrinks, lowering melee and ranged attack power. Amount of shrinkage and mana cost dependent on the power of the target.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Diminution";
 		[template_triggers]
 		{
@@ -274,6 +278,7 @@
 	[common]
 	{
 		description = "Temporarily changes a Combat Magician into a Nature Magician of the same skill level.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Convert Combat";
 	}
 	[gui]
@@ -343,6 +348,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		[template_triggers]
 		{
 			[*]
@@ -397,6 +403,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		[template_triggers]
 		{
 			[*]
@@ -446,6 +453,7 @@
 	[common]
 	{
 		description = "Target takes all damage intended for the caster.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Transference";
 		[template_triggers]
 		{
@@ -511,6 +519,7 @@
 	[common]
 	{
 		description = "Group of monsters is slowed.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Slow Crowd";
 		[template_triggers]
 		{
@@ -569,6 +578,7 @@
 	[common]
 	{
 		description = "Surrounds the creature with a sleep inducing gas which slows down their movement.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Sleepy Gas";
 		[template_triggers]
 		{
@@ -631,6 +641,7 @@
 	[common]
 	{
 		description = "The caster's attack and movement speed are increased by 25%.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Haste";
 		[template_triggers]
 		{
@@ -688,6 +699,7 @@
 	[common]
 	{
 		description = "The party member's attack and movement speed are increased by 25%, if within range of the caster.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Group Haste";
 		[template_triggers]
 		{
@@ -751,6 +763,7 @@
 	[common]
 	{
 		description = "Makes an enemy explode, damaging nearby enemies.  Mana cost dependent on the power of the target.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Zorkon's Exploder";
 		[template_triggers]
 		{
@@ -812,6 +825,7 @@
 	[common]
 	{
 		description = "Instantly kills an enemy.  Mana cost dependent on the power of the target.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Zorkon's Disintegrator";
 		[template_triggers]
 		{
@@ -872,6 +886,7 @@
 	[common]
 	{
 		description = "Bone damage spell, highly effective against skeletons. Mana cost dependent on the power of the target.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Zorkon's Bonecrusher";
 		[template_triggers]
 		{
@@ -925,6 +940,7 @@
 	[common]
 	{
 		description = "Increases a pack animal's chance to hit by <alter_chance_to_hit>, damage by <alter_melee_damage_min>, and armor by <alter_armor>.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Animal Rage";
 		[template_triggers]
 		{
@@ -1016,6 +1032,7 @@
 	[common]
 	{
 		description = "Increases the range of ranged weapons for the party by <alter_ranged_range>.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Range Boost";
 		[template_triggers]
 		{
@@ -1081,6 +1098,7 @@
 	[common]
 	{
 		description = "Temporarily blinds the target, decreasing chance to hit with melee or ranged weapons. Mana cost dependent on the power of the Target.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Light of Chadek";
 		[template_triggers]
 		{
@@ -1158,6 +1176,7 @@
 	[common]
 	{
 		description = "Undead will run away from the caster, gives party members <alter_life> life per second.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Purity";
 		[template_triggers]
 		{
@@ -1271,6 +1290,7 @@
 	[common]
 	{
 		description = "A glowing orb orbits the caster's body, shooting fireballs at nearby enemies.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Orb of Fire";
 	}
 	[gui]
@@ -1374,6 +1394,7 @@
 	[common]
 	{
 		description = "A glowing orb orbits the caster's body, shooting lightning at nearby enemies.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Orb of Lightning";
 	}
 	[gui]
@@ -1425,6 +1446,7 @@
 	[common]
 	{
 		description = "A gaseous orb orbits the caster's body, shooting acid at nearby enemies.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Orb of Acid";
 	}
 	[gui]
@@ -1475,6 +1497,7 @@
 	[common]
 	{
 		description = "A glowing orb orbits the caster's body, shooting powerful blasts of frost at nearby enemies.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Orb of Frost";
 	}
 	[gui]
@@ -1526,6 +1549,7 @@
 	[common]
 	{
 		description = "A glowing orb of energy spins about the caster's body, shooting bursts of energy at nearby enemies.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Orb of Energy";
 	}
 	[gui]
@@ -1572,6 +1596,7 @@
 	[common]
 	{
 		description = "A glowing orb orbits the caster's body, healing nearby party members.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Orb of Healing";
 	}
 	[gui]
@@ -1621,6 +1646,7 @@
 	[common]
 	{
 		description = "Summons a clone of the caster to guard the Caster.";
+	  b is_pcontent_allowed = false;
 		[template_triggers]
 		{
 			[*]
@@ -1802,6 +1828,7 @@
 	[common]
 	{
 		description = "Surrounds the Enemy with a block of stone, imobilizing them. Mana cost dependent on power of the Target.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Block of Stone";
 		[template_triggers]
 		{
@@ -1883,6 +1910,7 @@
 	[common]
 	{
 		description = "Transports the enemy to a mysterious dimension. Mana cost dependent on power of the Target.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Dimension Gate";
 		[template_triggers]
 		{
@@ -1928,6 +1956,7 @@
 	[common]
 	{
 		description = "Causes nearby melee enemies to attack the selected target";
+	  b is_pcontent_allowed = false;
 		[template_triggers]
 		{
 			[*]
@@ -1987,6 +2016,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		[template_triggers]
 		{
 			[*]
@@ -2131,6 +2161,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		[template_triggers]
 		{
 			[*]
@@ -2271,6 +2302,7 @@
 	[common]
 	{
 		description = "Summons a Giant Rat to guard the Caster.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Summon Giant Rat";
 		[template_triggers]
 		{
@@ -2398,6 +2430,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		[template_triggers]
 		{
 			[*]
@@ -2524,6 +2557,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		[template_triggers]
 		{
 			[*]
@@ -2650,6 +2684,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		[template_triggers]
 		{
 			[*]
@@ -2772,6 +2807,7 @@
 	[common]
 	{
 		description = "Summons a Barkrunner to guard the Caster.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Summon Barkrunner";
 		[template_triggers]
 		{
@@ -2895,6 +2931,7 @@
 	[common]
 	{
 		description = "Summons a Scrub Howler to guard the Caster.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Summon Scrub Howler";
 		[template_triggers]
 		{
@@ -3018,6 +3055,7 @@
 	[common]
 	{
 		description = "Summons a Cave Bear to guard the Caster.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Summon Cave Bear";
 		[template_triggers]
 		{
@@ -3141,6 +3179,7 @@
 	[common]
 	{
 		description = "Summons a Dark Zepheryl to guard the Caster.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Summon Dark Zepheryl";
 		[template_triggers]
 		{
@@ -3268,6 +3307,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		[template_triggers]
 		{
 			[*]
@@ -3394,6 +3434,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		[template_triggers]
 		{
 			[*]
@@ -3520,6 +3561,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		[template_triggers]
 		{
 			[*]
@@ -3642,6 +3684,7 @@
 	[common]
 	{
 		description = "Summons a Chomper to guard the Caster.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Summon Chomper";
 		[template_triggers]
 		{
@@ -3765,6 +3808,7 @@
 	[common]
 	{
 		description = "Summons a Troll Masher to guard the Caster.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Summon Troll Masher";
 		[template_triggers]
 		{
@@ -3888,6 +3932,7 @@
 	[common]
 	{
 		description = "Summons a Zepheryl to guard the Caster.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Summon Zepheryl";
 		[template_triggers]
 		{
@@ -4037,6 +4082,7 @@
 	[common]
 	{
 		description = "Causes the caster to become invisible.";
+	  b is_pcontent_allowed = false;
 	}
 	[magic]
 	{
@@ -4077,6 +4123,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Targeted Invisibility";
 		description = "Causes the target to become invisible.";
 	}
@@ -4129,6 +4176,7 @@
 	[common]
 	{
 		description = "Causes enemies to be unable to attack the caster.";
+	  b is_pcontent_allowed = false;
 		[template_triggers]
 		{
 			[*]
@@ -4182,6 +4230,7 @@
 	[common]
 	{
 		description = "Increases casters melee damage versus Undead by <alter_damage_bonus_to_undead>.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Lifeforce";
 		[template_triggers]
 		{
@@ -4247,6 +4296,7 @@
 	[common]
 	{
 		description = "Creates a magical object that captures the attention of nearby monsters.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Monster Magnet";
 		[template_triggers]
 		{
@@ -4304,6 +4354,7 @@
 	[common]
 	{
 		description = "An ethereal figure attracts the attacks of nearby enemies.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Spectral Image";
 		[template_triggers]
 		{
@@ -4420,6 +4471,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Detonating Glyph";
 		description = "Creates a rune that will detonate and damage enemies when they get too close.";
 	}
@@ -4474,6 +4526,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Flaming Glyph";
 		description = "Creates a rune that will create a flaming explosion and damage enemies when they get too close.";
 	}
@@ -4531,6 +4584,7 @@
 	[common]
 	{
 		description = "Creates a rune that will create a lightning explosion and damage enemies when they get too close.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Zapper Glyph";
 	}
 	[gui]
@@ -4585,6 +4639,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Shockwave Glyph";
 		description = "Creates a rune that releases a shockwave that will damage enemies when they get too close.";
 	}
@@ -4644,6 +4699,7 @@
 	[common]
 	{
 		description = "Creates a rune that will detonate into a damaging ball of acidic gas.";
+	  b is_pcontent_allowed = false;
 	}
 	[gui]
 	{
@@ -4700,6 +4756,7 @@
 	[common]
 	{
 		description = "Party members within range will share their damage.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Share Damage";
 		[template_triggers]
 		{
@@ -4754,6 +4811,7 @@
 	[common]
 	{
 		description = "Enemies around caster may be frozen.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Tadzu's Trance";
 		[template_triggers]
 		{
@@ -4822,6 +4880,7 @@
 	[common]
 	{
 		description = "A magical object captures the attention of nearby monsters and explodes after a time.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Mindflare";
 		[template_triggers]
 		{
@@ -5088,6 +5147,7 @@
 	[common]
 	{
 		description = "Caster transforms into a bear, with life proportional to the caster's current mana.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Transform Into Bear";
 	}
 	[gui]
@@ -5119,6 +5179,7 @@
 	[common]
 	{
 		description = "Caster transforms into a barkrunner, with life proportional to the caster's current mana.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Transform Into Barkrunner";
 	}
 	[gui]
@@ -5150,6 +5211,7 @@
 	[common]
 	{
 		description = "Caster transforms into a giant scorpion, with life proportional to the caster's current mana.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Transform Into Giant Scorpion";
 	}
 	[gui]
@@ -5181,6 +5243,7 @@
 	[common]
 	{
 		description = "Caster transforms into a Rock Beast, with life proportional to the caster's current mana.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Transform Into Rock Beast";
 	}
 	[gui]
@@ -5212,6 +5275,7 @@
 	[common]
 	{
 		description = "Caster transforms into a wolf, with life proportional to the caster's current mana.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Transform Into Wolf";
 	}
 	[gui]
@@ -5243,6 +5307,7 @@
 	[common]
 	{
 		description = "Caster transforms into an Ursae, with life proportional to the caster's current mana.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Transform Into Ursae";
 	}
 	[gui]
@@ -5273,6 +5338,7 @@
 	[common]
 	{
 		description = "Caster transforms into a rune fiend, with life proportional to the caster's current mana.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Transform Into Rune Fiend";
 	}
 	[gui]
@@ -5303,6 +5369,7 @@
 	[common]
 	{
 		description = "Caster transforms into a troll masher, with life proportional to the caster's current mana.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Transform Into Troll Masher";
 	}
 	[gui]
@@ -5333,6 +5400,7 @@
 	[common]
 	{
 		description = "Caster transforms into a vile twisted mucosa, with life proportional to the caster's current mana.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Transform Into Vile Twisted Mucosa";
 	}
 	[gui]
@@ -5363,6 +5431,7 @@
 	[common]
 	{
 		description = "Caster transforms into a ztrool, with life proportional to the caster's current mana.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Transform Into Ztrool";
 	}
 	[gui]
@@ -5393,6 +5462,7 @@
 	[common]
 	{
 		description = "Caster transforms into a molten golem, with life proportional to the caster's current mana.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Transform Into Molten Golem";
 	}
 	[gui]
@@ -5423,6 +5493,7 @@
 	[common]
 	{
 		description = "Caster transforms into a troll, with life proportional to the caster's current mana.";
+	  b is_pcontent_allowed = false;
 		screen_name = "Transform Into Troll";
 	}
 	[gui]

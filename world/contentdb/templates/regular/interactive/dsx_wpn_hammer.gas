@@ -133,6 +133,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Clockwork Hammer";
 	}
 	[gui]
@@ -166,6 +167,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Large Wooden Mallet";
 	}
 	[gui]
@@ -200,6 +202,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Crystal Hammer";
 	}
 	[gui]

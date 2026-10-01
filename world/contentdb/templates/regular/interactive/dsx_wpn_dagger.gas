@@ -135,6 +135,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Claws";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -173,6 +174,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Sai";
 		pcontent_special_type = normal;
 	}
@@ -211,6 +213,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Hassat Gouger";
 		pcontent_special_type = normal;
 	}
@@ -248,6 +251,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Barong";
 		pcontent_special_type = normal;
 	}
@@ -284,6 +288,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Crystal Shard";
 		pcontent_special_type = normal;
 	}
@@ -320,6 +325,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Zaurask Stiletto";
 		pcontent_special_type = normal;
 	}

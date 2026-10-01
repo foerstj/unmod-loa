@@ -25,6 +25,7 @@
 	specializes = dsx_base_glove;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Alloy Gauntlets";
 		pcontent_special_type = normal;
 	}
@@ -56,6 +57,7 @@
 	specializes = dsx_base_glove;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Transcendant Gauntlets";
 		pcontent_special_type = normal;
 	}
@@ -87,6 +89,7 @@
 	specializes = dsx_base_glove;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Woven Gloves";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -118,6 +121,7 @@
 	specializes = dsx_base_glove;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Beaded Gauntlets";
 		pcontent_special_type = normal;
 	}
@@ -149,6 +153,7 @@
 	specializes = dsx_base_glove;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Geared Gauntlets";
 		pcontent_special_type = normal;
 	}
@@ -180,6 +185,7 @@
 	specializes = dsx_base_glove;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Jeweled Gauntlets";
 		pcontent_special_type = normal;
 	}
@@ -211,6 +217,7 @@
 	specializes = dsx_base_glove;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Electric Gauntlets";
 		pcontent_special_type = normal;
 	}
@@ -242,6 +249,7 @@
 	specializes = dsx_base_glove;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Occult Gloves";
 		pcontent_special_type = normal;
 	}
@@ -273,6 +281,7 @@
 	specializes = dsx_base_glove;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Recondite Gauntlets";
 		pcontent_special_type = normal;
 	}
@@ -304,6 +313,7 @@
 	specializes = dsx_base_glove;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Cured Leaf Gloves";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -335,6 +345,7 @@
 	specializes = dsx_base_glove;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Starfield Gauntlets";
 		pcontent_special_type = rare,unique;
 	}
@@ -366,6 +377,7 @@
 	specializes = dsx_base_glove;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Flywing Gloves";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -397,6 +409,7 @@
 	specializes = dsx_base_glove;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Shell Gloves";
 		pcontent_special_type = normal;
 	}
@@ -428,6 +441,7 @@
 	specializes = dsx_base_glove;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Fiber Gloves";
 		pcontent_special_type = normal;
 	}
@@ -459,6 +473,7 @@
 	specializes = dsx_base_glove;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Flywing Gauntlets";
 		pcontent_special_type = normal;
 	}
@@ -490,6 +505,7 @@
 	specializes = dsx_base_glove;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Exoskeleton Gloves";
 		pcontent_special_type = normal;
 	}
@@ -521,6 +537,7 @@
 	specializes = dsx_base_glove;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Midnight Gloves";
 		pcontent_special_type = normal;
 	}
@@ -552,6 +569,7 @@
 	specializes = dsx_base_glove;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Arboreal Gloves";
 		pcontent_special_type = normal;
 	}

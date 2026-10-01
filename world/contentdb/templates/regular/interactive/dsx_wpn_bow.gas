@@ -611,6 +611,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Beaded Bow";
 		pcontent_special_type = rare, unique;
 	}
@@ -648,6 +649,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Crystal Bow";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -685,6 +687,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Fire Bow";
 	}
 	[gui]
@@ -721,6 +724,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Hassat Bow";
 	}
 	[gui]
@@ -757,6 +761,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Jeweled Bow";
 	}
 	[gui]
@@ -793,6 +798,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Thunderwood Bow";
 	}
 	[gui]
@@ -829,6 +835,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Quill bow";
 	}
 	[gui]
@@ -865,6 +872,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Shadow Bow";
 	}
 	[gui]
@@ -901,6 +909,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Spidersilk Bow";
 	}
 	[gui]

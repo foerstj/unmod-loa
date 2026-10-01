@@ -451,6 +451,10 @@
 [t:template,n:sd_d_c_dsx_skl_1h_mag]
 {
 	specializes = sd_d_c_dsx_skl_1h_mag_base;
+	[common]
+	{
+	  b is_pcontent_allowed = false;
+	}
 	[gui]
 	{
 		is_droppable = false;
@@ -468,6 +472,10 @@
 	{
 		damage_max = 47;
 		damage_min = 32;
+	}
+	[common]
+	{
+	  b is_pcontent_allowed = false;
 	}
 	[gui]
 	{
@@ -502,6 +510,7 @@
 	specializes = sd_d_c_dsx_skl_1h_mag_base;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Super Death Knight Sickle Sword";
 	}
 	[attack]
@@ -542,6 +551,7 @@
 	specializes = sd_d_c_dsx_skl_1h_mag_base;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Supreme Death Knight Sickle Sword";
 	}
 	[attack]
@@ -621,6 +631,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Black Steel";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -657,6 +668,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Clockwork Sword";
 	}
 	[gui]
@@ -692,6 +704,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Katana";
 	}
 	[gui]
@@ -727,6 +740,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Zaurask Katana";
 	}
 	[gui]
@@ -762,6 +776,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Serrated sword";
 	}
 	[gui]
@@ -797,6 +812,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Zaurask Slicer";
 	}
 	[gui]
@@ -832,6 +848,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Zaurask Snakebite";
 	}
 	[gui]

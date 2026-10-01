@@ -161,6 +161,10 @@
 		damage_max = 90;
 		damage_min = 75;
 	}
+	[common]
+	{
+	  b is_pcontent_allowed = false;
+	}
 	[gui]
 	{
 		is_droppable = false;
@@ -202,6 +206,10 @@
 	{
 		damage_max = 71;
 		damage_min = 42;
+	}
+	[common]
+	{
+	  b is_pcontent_allowed = false;
 	}
 	[gui]
 	{
@@ -246,6 +254,7 @@
 	specializes = st_un_dsx_angk_base;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Super Scythe of Angk";
 	}
 	[attack]
@@ -296,6 +305,7 @@
 	specializes = st_un_dsx_angk_base;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Supreme Scythe of Angk";
 	}
 	[attack]
@@ -741,6 +751,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Crystal Staff";
 	}
 	[gui]
@@ -778,6 +789,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Jade Staff";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -816,6 +828,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Utraean Gemstaff";
 	}
 	[gui]
@@ -853,6 +866,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Hassat Staff";
 	}
 	[gui]
@@ -890,6 +904,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Clockwork Rod";
 	}
 	[gui]

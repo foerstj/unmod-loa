@@ -160,6 +160,7 @@
 	specializes = dsx_base_helm;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Alloy Dome";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -191,6 +192,7 @@
 	specializes = dsx_base_helm;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Alloy Crown";
 		pcontent_special_type = normal;
 	}
@@ -222,6 +224,7 @@
 	specializes = dsx_base_helm;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Bone Crown";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -253,6 +256,7 @@
 	specializes = dsx_base_helm;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Woven Headband";
 		pcontent_special_type = normal;
 	}
@@ -284,6 +288,7 @@
 	specializes = dsx_base_helm;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Beaded Headband";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -315,6 +320,7 @@
 	specializes = dsx_base_helm;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Woven Wrap";
 		pcontent_special_type = normal;
 	}
@@ -346,6 +352,7 @@
 	specializes = dsx_base_helm;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Beaded Wrap";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -377,6 +384,7 @@
 	specializes = dsx_base_helm;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Iron Thread Cap";
 		pcontent_special_type = normal;
 	}
@@ -408,6 +416,7 @@
 	specializes = dsx_base_helm;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Bone Headdress";
 		pcontent_special_type = normal;
 	}
@@ -439,6 +448,7 @@
 	specializes = dsx_base_helm;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Ceramic Headband";
 		pcontent_special_type = normal;
 	}
@@ -470,6 +480,7 @@
 	specializes = dsx_base_helm;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Beaded Headdress";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -501,6 +512,7 @@
 	specializes = dsx_base_helm;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Spidersilk Visor";
 		pcontent_special_type = normal;
 	}
@@ -532,6 +544,7 @@
 	specializes = dsx_base_helm;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Spidersilk Dome";
 		pcontent_special_type = normal;
 	}
@@ -563,6 +576,7 @@
 	specializes = dsx_base_helm;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Ceramic Headdress";
 		pcontent_special_type = normal;
 	}
@@ -594,6 +608,7 @@
 	specializes = dsx_base_helm;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Geared Crown";
 		pcontent_special_type = normal;
 	}
@@ -625,6 +640,7 @@
 	specializes = dsx_base_helm;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Jeweled Headband";
 		pcontent_special_type = normal;
 	}
@@ -656,6 +672,7 @@
 	specializes = dsx_base_helm;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Magesilk Headdress";
 		pcontent_special_type = normal;
 	}
@@ -687,6 +704,7 @@
 	specializes = dsx_base_helm;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Etched Headdress";
 		pcontent_special_type = normal;
 	}
@@ -718,6 +736,7 @@
 	specializes = dsx_base_helm;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Cured Leaf Visor";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -749,6 +768,7 @@
 	specializes = dsx_base_helm;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Zaurask Headdress";
 		pcontent_special_type = normal;
 	}
@@ -780,6 +800,7 @@
 	specializes = dsx_base_helm;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Flywing Visor";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -811,6 +832,7 @@
 	specializes = dsx_base_helm;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Fiber Visor";
 		pcontent_special_type = normal;
 	}
@@ -842,6 +864,7 @@
 	specializes = dsx_base_helm;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Flywing Crown";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -873,6 +896,7 @@
 	specializes = dsx_base_helm;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Zaurask Crown";
 		pcontent_special_type = normal;
 	}
@@ -904,6 +928,7 @@
 	specializes = dsx_base_helm;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Exoskeleton Visor";
 		pcontent_special_type = normal;
 	}
@@ -935,6 +960,7 @@
 	specializes = dsx_base_helm;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Midnight Visor";
 		pcontent_special_type = normal;
 	}
@@ -966,6 +992,7 @@
 	specializes = dsx_base_helm;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Arboreal Visor";
 		pcontent_special_type = normal;
 	}

@@ -23,6 +23,7 @@
 	specializes = dsx_base_boot;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Alloy Boots";
 		pcontent_special_type = normal;
 	}
@@ -54,6 +55,7 @@
 	specializes = dsx_base_boot;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Transcendant Boots";
 		pcontent_special_type = normal;
 	}
@@ -85,6 +87,7 @@
 	specializes = dsx_base_boot;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Woven Shoes";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -116,6 +119,7 @@
 	specializes = dsx_base_boot;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Beaded Boots";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -147,6 +151,7 @@
 	specializes = dsx_base_boot;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Geared Boots";
 		pcontent_special_type = normal;
 	}
@@ -178,6 +183,7 @@
 	specializes = dsx_base_boot;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Ceramic Boots";
 		pcontent_special_type = normal;
 	}
@@ -209,6 +215,7 @@
 	specializes = dsx_base_boot;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Jeweled Boots";
 		pcontent_special_type = normal;
 	}
@@ -240,6 +247,7 @@
 	specializes = dsx_base_boot;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Occult Shoes";
 		pcontent_special_type = normal;
 	}
@@ -271,6 +279,7 @@
 	specializes = dsx_base_boot;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Etched Boots";
 		pcontent_special_type = normal;
 	}
@@ -302,6 +311,7 @@
 	specializes = dsx_base_boot;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Recondite Boots";
 		pcontent_special_type = normal;
 	}
@@ -333,6 +343,7 @@
 	specializes = dsx_base_boot;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Fiber Shoes";
 		pcontent_special_type = normal;
 	}
@@ -364,6 +375,7 @@
 	specializes = dsx_base_boot;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Flywing Boots";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -395,6 +407,7 @@
 	specializes = dsx_base_boot;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Chitin Shoes";
 		pcontent_special_type = normal;
 	}
@@ -426,6 +439,7 @@
 	specializes = dsx_base_boot;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Fiber Boots";
 		pcontent_special_type = normal;
 	}
@@ -457,6 +471,7 @@
 	specializes = dsx_base_boot;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Flywing Shoes";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -488,6 +503,7 @@
 	specializes = dsx_base_boot;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Exoskeleton Shoes";
 		pcontent_special_type = normal;
 	}
@@ -519,6 +535,7 @@
 	specializes = dsx_base_boot;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Midnight Boots";
 		pcontent_special_type = normal;
 	}
@@ -550,6 +567,7 @@
 	specializes = dsx_base_boot;
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Arboreal Boots";
 		pcontent_special_type = normal;
 	}

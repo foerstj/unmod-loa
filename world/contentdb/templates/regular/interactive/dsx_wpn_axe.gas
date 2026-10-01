@@ -140,6 +140,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Clamshell Axe";
 		pcontent_special_type = rare, unique, normal;
 	}
@@ -177,6 +178,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Cleaver";
 	}
 	[gui]
@@ -213,6 +215,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Slate Chip";
 	}
 	[gui]
@@ -249,6 +252,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Moonhead Axe";
 	}
 	[gui]
@@ -284,6 +288,7 @@
 	}
 	[common]
 	{
+	  b is_pcontent_allowed = false;
 		screen_name = "Bonegrip Chopper";
 	}
 	[gui]
