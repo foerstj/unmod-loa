@@ -381,6 +381,7 @@
 					effect_script_equip	= death_knight_shield;
 				}
 		}
+	} // ADDED missing closing brace
 }
 [t:template,n:sh_w_f_g_c_t_s_avg_deathknight_player]
 {
@@ -405,6 +406,7 @@
 					effect_script_equip	= death_knight_shield_player;
 				}
 		}
+	} // ADDED missing closing brace
 }
 
 [t:template,n:2w_sh_w_f_g_c_t_s_avg_deathknight_player]
@@ -437,6 +439,7 @@
 					effect_script_equip	= death_knight_shield_player;
 				}
 		}
+	} // ADDED missing closing brace
 }
 
 
@@ -469,6 +472,7 @@
 					effect_script_equip	= death_knight_shield_player;
 				}
 		}
+	} // ADDED missing closing brace
 }
 
 
