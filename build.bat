@@ -20,10 +20,22 @@ robocopy "%bits%\world\contentdb" "%tmp%\Bits\world\contentdb" /S pcontent.gas
 "%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\DSLOA\%mod_cs% - enchantments.dsres" -copyright "%copyright%" -title "%title%" -author "%author%"
 if %errorlevel% neq 0 pause
 
-:: build resource file - equipments
+:: build resource files - equipments
 rmdir /S /Q "%tmp%\Bits"
-robocopy "%bits%\world\contentdb\templates" "%tmp%\Bits\world\contentdb\templates" /S
-"%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\DSLOA\%mod_cs% - equipments.dsres" -copyright "%copyright%" -title "%title%" -author "%author%"
+robocopy "%bits%\world\contentdb\templates" "%tmp%\Bits\world\contentdb\templates" /S dsx_amr_*.gas
+"%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\DSLOA\%mod_cs% - equipments - armor.dsres" -copyright "%copyright%" -title "%title%" -author "%author%"
+if %errorlevel% neq 0 pause
+rmdir /S /Q "%tmp%\Bits"
+robocopy "%bits%\world\contentdb\templates" "%tmp%\Bits\world\contentdb\templates" /S dsx_wpn_*.gas
+"%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\DSLOA\%mod_cs% - equipments - weapons.dsres" -copyright "%copyright%" -title "%title%" -author "%author%"
+if %errorlevel% neq 0 pause
+rmdir /S /Q "%tmp%\Bits"
+robocopy "%bits%\world\contentdb\templates" "%tmp%\Bits\world\contentdb\templates" /S dsx_spl_*.gas
+"%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\DSLOA\%mod_cs% - equipments - spells.dsres" -copyright "%copyright%" -title "%title%" -author "%author%"
+if %errorlevel% neq 0 pause
+rmdir /S /Q "%tmp%\Bits"
+robocopy "%bits%\world\contentdb\templates" "%tmp%\Bits\world\contentdb\templates" /S dsx_set_*.gas
+"%tc%\RTC.exe" -source "%tmp%\Bits" -out "%ds%\DSLOA\%mod_cs% - equipments - set items.dsres" -copyright "%copyright%" -title "%title%" -author "%author%"
 if %errorlevel% neq 0 pause
 
 :: Cleanup
